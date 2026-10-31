@@ -1,6 +1,6 @@
 # TimesJev
 
-Code for TimesJev.
+Code for TimesJev. The trained encoders are on Hugging Face: https://huggingface.co/Coenliu62/TimesJev
 
 ## Repository structure
 
